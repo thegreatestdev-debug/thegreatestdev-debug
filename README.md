@@ -26,5 +26,7 @@ Become an expert ML engineer specializing in **on-device inference, quantization
 
 ## 📫 Find me
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=xlogocolor=white)](https://x.com/jnr_0555?s=11)
+- GitHub: [thegreatestdev-debug](https://github.com/thegreatestdev-debug)
+- LinkedIn: [David Attutey](https://www.linkedin.com/in/david-attutey-a2957843b)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-thegreatest-FFD21E?style=for-the-badge&logo=huggingface&logocolor=white)](https://huggingface.co/thegreatest)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Attutey-0A66C2?style=for-the-badge&logo=linkedin&logocolor=white)](https://www.linkedin.com/in/david-attutey-a2957843b)
+
