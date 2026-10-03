@@ -8,9 +8,9 @@ Become an expert ML engineer specializing in **on-device inference, quantization
 ## 🗺️ The Path (18-36 months)
 | Phase | Focus | Status |
 |-------|-------|--------|
-| 0 | Setup & mindset | 🟡 In progress |
-| 1 | Math, Python, tools | ⚪ Next |
-| 2 | Core ML + Overheating Detector MVP | ⚪ |
+| 0 | Setup & mindset |✅  |
+| 1 | Math, Python, tools |✅  |
+| 2 | Core ML + Overheating Detector MVP | ⚪ Next |
 | 3 | Deep learning from scratch | ⚪ |
 | 4 | Systems, MLOps & deployment | ⚪ |
 | 5 | LLMs, agents & multimodal | ⚪ |
